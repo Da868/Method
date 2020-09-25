@@ -1,6 +1,6 @@
 ﻿// Author: Montarious Starks
 // Date:   09/24/2020
-// Comments: This program is to shwo the fact people are able to have the information
+// Comments: This program is to complete a method asking for Buc fans names.
 
 using Microsoft.VisualBasic;
 using System;
